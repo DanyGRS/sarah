@@ -3,7 +3,7 @@ body {
 }
 
 .button {
-    background: #ffffff;                
+    background: #ffffff;
     width: 180px;
     padding: 4px 0;
     position: absolute;
@@ -101,7 +101,7 @@ p {
 }
 
 .ajuste {
-    height: 10vh;
+    height: 30vh;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -115,15 +115,6 @@ p {
     text-align: center;
 }
 
-.waves {
-    position: relative;
-    width: 100%;
-    height: 15vh;
-    margin-bottom: -7px;
-    /*Fix for safari gap*/
-    min-height: 100px;
-    max-height: 150px;
-}
 
 .content {
     position: relative;
@@ -189,7 +180,7 @@ p {
 }
 
 .ajuste-end {
-    height: 15vh;
+    height: 31vh;
     width: 100%;
     margin: 0;
     padding: 0;
